@@ -1,8 +1,8 @@
 # Task Scheduler
 
-Simple web app created using react.js which help to add, delete, update the regular task to be done. The back end used is [json-server] (https://www.npmjs.com/package/json-server)
+Simple web app created using react.js which help to add, delete, update the regular task to be done. The back end used is [json-server](https://www.npmjs.com/package/json-server).
 
-##Screenshots
+## Screenshots
 
 ![Screenshot 2022-03-16 160348](https://user-images.githubusercontent.com/33744789/158568986-9a05838c-c339-4f8c-b727-4eff677991f3.png)
 ![Screenshot 2022-03-16 160211](https://user-images.githubusercontent.com/33744789/158569065-51a3aa2d-497a-4c65-89de-4bcb51c52c1e.png)
